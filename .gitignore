@@ -2,7 +2,8 @@
 /projectenv
 /weights
 /automatic-number-plate-recognition-python-yolov8
-.mp4
+*.mp4
+__pycache__
 # dependencies
 admin-panel-react-firebase/node_modules
 .DS_Store
